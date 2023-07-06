@@ -136,7 +136,7 @@ Here are some ideas to get you started:
         rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" />
     </a>
 </p>
-
+<hr>
 <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ghassan-aljaafri&show_icons=true&locale=en&layout=compact"
         alt="ghassan-aljaafri" /></p>
