@@ -1,3 +1,5 @@
+<img width="100%" src="https://cdn-images-1.medium.com/v2/resize:fit:859/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
+
 <!--
 ### Hi there 👋
 
