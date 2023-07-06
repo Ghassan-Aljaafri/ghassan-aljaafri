@@ -40,9 +40,9 @@ Here are some ideas to get you started:
     <a href="https://fb.com/ghassan-aljaafri" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="ghassan-aljaafri" height="30" width="40" /></a>
-    <a href="https://instagram.com/ghassan-aljaafri" target="blank"><img align="center"
+    <a href="https://instagram.com/ghassan_aljaafri" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="ghassan-aljaafri" height="30" width="40" /></a>
+            alt="ghassan_aljaafri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
